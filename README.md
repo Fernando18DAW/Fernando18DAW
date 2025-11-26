@@ -1,15 +1,19 @@
-## Hi there 👋
+## Hi GitHub, Soy Fernando👋
 <picture>
  <source media="https://www.loboswiki.com/Imagenes/lobo-blanco-en-la-nieve.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://www.loboswiki.com/Imagenes/lobo-blanco-en-la-nieve.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://www.loboswiki.com/Imagenes/lobo-blanco-en-la-nieve.jpg">
 </picture>
+## Aficiones 🎮
 
 | Rank | Mis cosas |
 |-----:|---------------|
 |     1|    Programar           |
 |     2|    Jugar           |
 |     3|    Dormir          |
+
+## Contacto 📩
+How to reach me: al039411@alumnos.iesitacaalcorcon.org
 <!--
 **Fernando18DAW/Fernando18DAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
